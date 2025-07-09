@@ -1,7 +1,7 @@
 Name;Date;Opponent;League;Appearance;RBI;Run;SB;SBA;RISP
-Daniel;16/06/2024;Dragons;LCB;1b;0;1;1;1;
+Daniel;16/06/2024;Dragons;LCB;1b;0;1;1;1;false
 Daniel;16/06/2024;Dragons;LCB;K;0;0;0;0;
-Daniel;16/06/2024;Dragons;LCB;HR;1;1;0;0;
+Daniel;16/06/2024;Dragons;LCB;HR;1;1;0;0;false
 Daniel;16/06/2024;Dragons;LCB;K;0;0;0;0;
 Yoel;16/06/2024;Dragons;LCB;BB;0;1;1;1;
 Yoel;16/06/2024;Dragons;LCB;BB;0;1;0;0;
@@ -33,7 +33,7 @@ Fernando;16/06/2024;Dragons;LCB;BB;0;0;0;0;
 Panda;16/06/2024;Dragons;LCB;BB;0;1;0;0;
 P. Zaniboni;16/06/2024;Dragons;LCB;BB;0;0;0;0;
 Antonio;16/06/2024;Dragons;LCB;BB;0;1;0;0;
-Daniel;16/06/2024;Piratas;LCB;ROE;0;0;0;0;
+Daniel;16/06/2024;Piratas;LCB;ROE;0;0;0;0;false
 Daniel;16/06/2024;Piratas;LCB;RFC;0;1;2;2;
 Daniel;16/06/2024;Piratas;LCB;HR;1;1;0;0;
 Daniel;16/06/2024;Piratas;LCB;RFC;0;0;0;0;
