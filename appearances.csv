@@ -114,30 +114,31 @@ Fernando;28/07/2024;Itajai;LCB;K;0;0;0;0;
 Fernando;28/07/2024;Itajai;LCB;FO;0;0;0;0;
 Panda;28/07/2024;Itajai;LCB;K;0;0;0;0;
 Marcio;28/07/2024;Itajai;LCB;K;0;0;0;0;
-Daniel;18/05/2025;Dragons;Exhibition;3b;0;1;0;0;
-Daniel;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;
-Daniel;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;
-Ralph;18/05/2025;Dragons;Exhibition;SacF;1;0;0;0;
-Ralph;18/05/2025;Dragons;Exhibition;1b;0;1;0;0;
-Ralph;18/05/2025;Dragons;Exhibition;BB;0;0;0;0;
-Ralph;18/05/2025;Dragons;Exhibition;BB;0;0;0;0;
-Antonio;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;
-Antonio;18/05/2025;Dragons;Exhibition;ROE;0;1;0;0;
-Antonio;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;
-Antonio;18/05/2025;Dragons;Exhibition;RFC;0;0;1;1;
-Eudomar;18/05/2025;Dragons;Exhibition;1b;0;1;1;1;
-Eudomar;18/05/2025;Dragons;Exhibition;1b;0;1;0;0;
-Eudomar;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;
-Eudomar;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;
-G. Lombardi;18/05/2025;Dragons;Exhibition;1b;0;1;1;1;
-G. Lombardi;18/05/2025;Dragons;Exhibition;BB;0;1;0;0;
-G. Lombardi;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;
-G. Lombardi;18/05/2025;Dragons;Exhibition;ROE;0;0;0;0;
-Alberto;18/05/2025;Dragons;Exhibition;2b;2;0;0;0;
-Alberto;18/05/2025;Dragons;Exhibition;2b;2;1;0;0;
-Alberto;18/05/2025;Dragons;Exhibition;ROE;0;0;0;0;
-Alberto;18/05/2025;Dragons;Exhibition;BB;0;0;0;0;
-L. Marquez;18/05/2025;Dragons;Exhibition;GO;0;0;0;0;false
+Daniel;18/05/2025;Dragons;Exhibition;3b;0;1;0;0;false
+Daniel;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;true
+Daniel;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;false
+Tomita;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;false
+Ralph;18/05/2025;Dragons;Exhibition;SacF;1;0;0;0;true
+Ralph;18/05/2025;Dragons;Exhibition;1b;1;1;0;0;true
+Ralph;18/05/2025;Dragons;Exhibition;BB;0;0;0;0;false
+Ralph;18/05/2025;Dragons;Exhibition;BB;0;0;0;0;false
+Antonio;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;false
+Antonio;18/05/2025;Dragons;Exhibition;ROE;0;1;0;0;true
+Antonio;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;false
+Antonio;18/05/2025;Dragons;Exhibition;RFC;0;0;1;1;false
+Eudomar;18/05/2025;Dragons;Exhibition;1b;0;1;1;1;false
+Eudomar;18/05/2025;Dragons;Exhibition;1b;0;1;0;0;true
+Eudomar;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;false
+Eudomar;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;false
+G. Lombardi;18/05/2025;Dragons;Exhibition;1b;0;1;1;1;false
+G. Lombardi;18/05/2025;Dragons;Exhibition;BB;0;1;0;0;true
+G. Lombardi;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;false
+G. Lombardi;18/05/2025;Dragons;Exhibition;ROE;0;0;0;0;true
+Alberto;18/05/2025;Dragons;Exhibition;2b;2;0;0;0;true
+Alberto;18/05/2025;Dragons;Exhibition;2b;2;1;0;0;true
+Alberto;18/05/2025;Dragons;Exhibition;ROE;0;0;0;0;false
+Alberto;18/05/2025;Dragons;Exhibition;BB;0;0;0;0;true
+L. Marquez;18/05/2025;Dragons;Exhibition;GO;0;0;0;0;true
 L. Marquez;18/05/2025;Dragons;Exhibition;1b;1;1;0;0;true
 L. Marquez;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;true
 L. Marquez;18/05/2025;Dragons;Exhibition;GO;0;0;0;0;true
