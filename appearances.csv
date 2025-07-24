@@ -62,44 +62,44 @@ Marcio;16/06/2024;Piratas;LCB;BB;0;0;0;0;true
 Marcio;16/06/2024;Piratas;LCB;BB;0;1;0;0;false
 Marcio;16/06/2024;Piratas;LCB;BB;0;0;0;0;true
 Daniel;30/06/2024;Blumenau;LCB;HR;1;1;0;0;false
-Daniel;30/06/2024;Blumenau;LCB;IBB;0;0;1;1;
-Daniel;30/06/2024;Blumenau;LCB;FO;0;0;0;0;
-Daniel;30/06/2024;Blumenau;LCB;GO;0;0;0;0;
-Daniel;30/06/2024;Blumenau;LCB;1b;0;0;0;0;
-Yoel;30/06/2024;Blumenau;LCB;GO;0;0;0;0;
-Yoel;30/06/2024;Blumenau;LCB;FO;0;0;0;0;
-Yoel;30/06/2024;Blumenau;LCB;BB;0;1;1;1;
-Yoel;30/06/2024;Blumenau;LCB;K;0;0;0;0;
-Eudomar;30/06/2024;Blumenau;LCB;HR;2;1;0;0;
-Eudomar;30/06/2024;Blumenau;LCB;BB;0;0;0;0;
-Eudomar;30/06/2024;Blumenau;LCB;K;0;0;0;0;
-Eudomar;30/06/2024;Blumenau;LCB;GO;0;0;0;0;
-Rolando;30/06/2024;Blumenau;LCB;BB;0;0;0;0;
-Rolando;30/06/2024;Blumenau;LCB;RFC;0;0;0;0;
-Rolando;30/06/2024;Blumenau;LCB;1b;1;0;0;0;
-Rolando;30/06/2024;Blumenau;LCB;FO;0;0;0;0;
-G. Lombardi;30/06/2024;Blumenau;LCB;BB;0;1;1;1;
-G. Lombardi;30/06/2024;Blumenau;LCB;BB;0;0;0;0;
-G. Marquez;30/06/2024;Blumenau;LCB;K;0;0;0;0;
-G. Marquez;30/06/2024;Blumenau;LCB;K;0;0;0;0;
-G. Marquez;30/06/2024;Blumenau;LCB;K;0;0;0;0;
-Tomita;30/06/2024;Blumenau;LCB;K;0;0;0;0;
-L. Marquez;30/06/2024;Blumenau;LCB;FO;0;0;0;0;
-L. Marquez;30/06/2024;Blumenau;LCB;FO;0;0;0;0;
-L. Marquez;30/06/2024;Blumenau;LCB;K;0;0;0;0;
-L. Marquez;30/06/2024;Blumenau;LCB;FO;0;0;0;0;
-Ralph;30/06/2024;Blumenau;LCB;BB;0;1;0;0;
-Ralph;30/06/2024;Blumenau;LCB;2b;0;0;1;1;
-Ralph;30/06/2024;Blumenau;LCB;RFC;0;0;0;0;
-Ralph;30/06/2024;Blumenau;LCB;1b;1;0;0;0;
-Panda;30/06/2024;Blumenau;LCB;ROE;0;0;0;0;
-Panda;30/06/2024;Blumenau;LCB;BB;0;0;0;0;
-Panda;30/06/2024;Blumenau;LCB;GO;0;0;0;0;
-Antonio;30/06/2024;Blumenau;LCB;GO;0;0;0;0;
-Marcio;30/06/2024;Blumenau;LCB;FO;0;0;0;0;
-Marcio;30/06/2024;Blumenau;LCB;BB;0;0;0;0;
-Marcio;30/06/2024;Blumenau;LCB;RFC;0;0;0;0;
-Marcio;30/06/2024;Blumenau;LCB;BB;0;0;0;0;
+Daniel;30/06/2024;Blumenau;LCB;IBB;0;0;1;1;true
+Daniel;30/06/2024;Blumenau;LCB;1b;0;0;0;0;false
+Daniel;30/06/2024;Blumenau;LCB;GO;0;0;0;0;false
+Daniel;30/06/2024;Blumenau;LCB;1b;0;0;0;0;false
+Yoel;30/06/2024;Blumenau;LCB;GO;0;0;0;0;false
+Yoel;30/06/2024;Blumenau;LCB;FO;0;0;0;0;true
+Yoel;30/06/2024;Blumenau;LCB;BB;0;1;1;1;false
+Yoel;30/06/2024;Blumenau;LCB;K;0;0;0;0;true
+Eudomar;30/06/2024;Blumenau;LCB;HR;2;1;0;0;false
+Eudomar;30/06/2024;Blumenau;LCB;BB;0;0;0;0;true
+Eudomar;30/06/2024;Blumenau;LCB;K;0;0;0;0;true
+Eudomar;30/06/2024;Blumenau;LCB;GO;0;0;0;0;false
+Rolando;30/06/2024;Blumenau;LCB;BB;0;0;0;0;false
+Rolando;30/06/2024;Blumenau;LCB;GO;0;0;0;0;true
+Rolando;30/06/2024;Blumenau;LCB;1b;1;0;0;0;true
+Rolando;30/06/2024;Blumenau;LCB;FO;0;0;0;0;false
+G. Lombardi;30/06/2024;Blumenau;LCB;BB;0;1;1;1;false
+G. Lombardi;30/06/2024;Blumenau;LCB;BB;0;0;0;0;true
+G. Marquez;30/06/2024;Blumenau;LCB;K;0;0;0;0;false
+G. Marquez;30/06/2024;Blumenau;LCB;K;0;0;0;0;true
+G. Marquez;30/06/2024;Blumenau;LCB;K;0;0;0;0;true
+Tomita;30/06/2024;Blumenau;LCB;K;0;0;0;0;true
+L. Marquez;30/06/2024;Blumenau;LCB;FO;0;0;0;0;false
+L. Marquez;30/06/2024;Blumenau;LCB;FO;0;0;0;0;true
+L. Marquez;30/06/2024;Blumenau;LCB;K;0;0;0;0;true
+L. Marquez;30/06/2024;Blumenau;LCB;FO;0;0;0;0;true
+Ralph;30/06/2024;Blumenau;LCB;BB;0;1;0;0;false
+Ralph;30/06/2024;Blumenau;LCB;2b;0;0;1;1;false
+Ralph;30/06/2024;Blumenau;LCB;RFC;0;0;0;0;true
+Ralph;30/06/2024;Blumenau;LCB;1b;1;0;0;0;true
+Panda;30/06/2024;Blumenau;LCB;ROE;0;0;0;0;false
+Panda;30/06/2024;Blumenau;LCB;BB;0;0;0;0;true
+Panda;30/06/2024;Blumenau;LCB;GO;0;0;0;0;true
+Antoni;30/06/2024;Blumenau;LCB;GO;0;0;0;0;false
+Marcio;30/06/2024;Blumenau;LCB;FO;0;0;0;0;true
+Marcio;30/06/2024;Blumenau;LCB;BB;0;0;0;0;false
+Marcio;30/06/2024;Blumenau;LCB;RFC;0;0;0;0;false
+Marcio;30/06/2024;Blumenau;LCB;BB;0;0;0;0;false
 Daniel;28/07/2024;Itajai;LCB;ROE;0;0;0;0;
 Daniel;28/07/2024;Itajai;LCB;ROE;0;0;0;1;
 Yoel;28/07/2024;Itajai;LCB;K;0;0;0;0;
