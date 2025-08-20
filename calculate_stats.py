@@ -4,12 +4,10 @@ data = pd.read_csv("appearances.csv", sep=';')
 
 players = data["Name"].unique()
 
-plate_appearances = {}
-at_bats = {}
-
 count_towards_atbats = ["1b", "2b", "3b", "HR", "K", "ROE", "RFC", "GO", "FO"]
 
 plate_appearances = data.groupby("Name").size()
+atbats = data[data["Appearance"].isin(count_towards_atbats)].groupby("Name").size()
 
 # for player in players:
 #     appeared = data.loc[data["Name"]==player,"Name"].count()
