@@ -12,3 +12,5 @@ plate_appearances = data.groupby("Name").size()
 atbats = data[data["Appearance"].isin(count_towards_atbats)].groupby("Name").size()
 hits = data[data["Appearance"].isin(count_as_hits)].groupby("Name").size()
 got_on_base = data[data["Appearance"].isin(on_base)].groupby("Name").size()
+
+average = (hits/atbats).round(3)
