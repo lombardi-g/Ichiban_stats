@@ -15,3 +15,8 @@ got_on_base = data[data["Appearance"].isin(on_base)].groupby("Name").size()
 
 average = (hits/atbats).round(3)
 on_base_percentage = (got_on_base/plate_appearances).round(3)
+
+singles = data[data["Appearance"] == "1b"].groupby("Name").size().reindex(atbats.index, fill_value=0)
+doubles = data[data["Appearance"] == "2b"].groupby("Name").size().reindex(atbats.index, fill_value=0)
+triples = data[data["Appearance"] == "3b"].groupby("Name").size().reindex(atbats.index, fill_value=0)
+homeruns = data[data["Appearance"] == "HR"].groupby("Name").size().reindex(atbats.index, fill_value=0)
