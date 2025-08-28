@@ -20,3 +20,5 @@ singles = data[data["Appearance"] == "1b"].groupby("Name").size().reindex(atbats
 doubles = data[data["Appearance"] == "2b"].groupby("Name").size().reindex(atbats.index, fill_value=0)
 triples = data[data["Appearance"] == "3b"].groupby("Name").size().reindex(atbats.index, fill_value=0)
 homeruns = data[data["Appearance"] == "HR"].groupby("Name").size().reindex(atbats.index, fill_value=0)
+
+total_bases = singles*1 + doubles*2 + triples*3 + homeruns*4
