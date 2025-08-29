@@ -22,3 +22,4 @@ triples = data[data["Appearance"] == "3b"].groupby("Name").size().reindex(atbats
 homeruns = data[data["Appearance"] == "HR"].groupby("Name").size().reindex(atbats.index, fill_value=0)
 
 total_bases = singles*1 + doubles*2 + triples*3 + homeruns*4
+slugging = (total_bases / atbats).round(3)
