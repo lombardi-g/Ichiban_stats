@@ -1,119 +1,119 @@
 Name;Date;Opponent;League;Appearance;RBI;Run;SB;SBA;RISP
-Daniel;16/06/2024;Dragons;LCB;1b;0;1;1;1;false
-Daniel;16/06/2024;Dragons;LCB;K;0;0;0;0;false
-Daniel;16/06/2024;Dragons;LCB;HR;1;1;0;0;false
-Daniel;16/06/2024;Dragons;LCB;K;0;0;0;0;false
-Yoel;16/06/2024;Dragons;LCB;BB;0;1;1;1;false
-Yoel;16/06/2024;Dragons;LCB;BB;0;1;0;0;true
-Yoel;16/06/2024;Dragons;LCB;K;0;0;0;0;false
-Yoel;16/06/2024;Dragons;LCB;K;0;0;0;0;false
-Eudomar;16/06/2024;Dragons;LCB;K;0;0;0;0;true
-Eudomar;16/06/2024;Dragons;LCB;3b;0;1;0;0;false
-Rolando;16/06/2024;Dragons;LCB;1b;1;1;1;1;true
-Rolando;16/06/2024;Dragons;LCB;BB;0;1;0;0;true
-G. Lombardi;16/06/2024;Dragons;LCB;2b;2;1;0;0;true
-G. Lombardi;16/06/2024;Dragons;LCB;ROE;0;0;0;0;true
-Alex Rodriguez;16/06/2024;Dragons;LCB;BB;0;0;0;0;true
-Alex Rodriguez;16/06/2024;Dragons;LCB;K;0;0;0;0;true
-W. Farias;16/06/2024;Dragons;LCB;BB;0;0;0;0;true
-W. Farias;16/06/2024;Dragons;LCB;K;0;0;0;0;true
-G. Marquez;16/06/2024;Dragons;LCB;1b;1;0;0;0;true
-G. Marquez;16/06/2024;Dragons;LCB;BB;0;0;1;2;false
-Tomita;16/06/2024;Dragons;LCB;K;0;0;0;0;true
-Tomita;16/06/2024;Dragons;LCB;BB;0;1;0;0;false
-A. Flores;16/06/2024;Dragons;LCB;BB;0;1;0;0;true
-L. Marquez;16/06/2024;Dragons;LCB;HR;3;1;0;0;true
-L. Marquez;16/06/2024;Dragons;LCB;K;0;0;0;0;false
-Ralph;16/06/2024;Dragons;LCB;GO;0;0;0;0;false
-Ralph;16/06/2024;Dragons;LCB;K;0;0;0;0;false
-Leomar;16/06/2024;Dragons;LCB;GO;0;0;0;0;false
-Leomar;16/06/2024;Dragons;LCB;K;0;0;0;0;false
-Fernando;16/06/2024;Dragons;LCB;HR;1;1;0;0;false
-Fernando;16/06/2024;Dragons;LCB;BB;0;0;0;0;false
-Panda;16/06/2024;Dragons;LCB;BB;0;1;0;0;false
-P. Zaniboni;16/06/2024;Dragons;LCB;BB;0;0;0;0;false
-Daniel;16/06/2024;Piratas;LCB;ROE;0;0;0;0;false
-Daniel;16/06/2024;Piratas;LCB;RFC;1;1;2;2;true
-Daniel;16/06/2024;Piratas;LCB;HR;1;1;0;0;false
-Daniel;16/06/2024;Piratas;LCB;RFC;0;0;0;0;false
-Yoel;16/06/2024;Piratas;LCB;BB;0;1;1;1;false
-Yoel;16/06/2024;Piratas;LCB;HBP;0;1;0;0;true
-Yoel;16/06/2024;Piratas;LCB;HBP;0;1;0;0;true
-Eudomar;16/06/2024;Piratas;LCB;1b;1;0;0;0;true
-Eudomar;16/06/2024;Piratas;LCB;K;0;0;0;0;true
-Rolando;16/06/2024;Piratas;LCB;K;0;0;0;0;true
-Rolando;16/06/2024;Piratas;LCB;GO;0;0;0;0;true
-G. Lombardi;16/06/2024;Piratas;LCB;1b;0;1;0;0;false
-W. Farias;16/06/2024;Piratas;LCB;BB;0;1;0;0;true
-G. Marquez;16/06/2024;Piratas;LCB;1b;1;1;1;1;true
-G. Marquez;16/06/2024;Piratas;LCB;HR;3;1;0;0;true
-G. Marquez;16/06/2024;Piratas;LCB;BB;0;1;0;0;true
-L. Marquez;16/06/2024;Piratas;LCB;GO;0;0;0;0;true
-L. Marquez;16/06/2024;Piratas;LCB;BB;0;1;1;1;false
-L. Marquez;16/06/2024;Piratas;LCB;1b;1;1;0;0;true
-Ralph;16/06/2024;Piratas;LCB;RFC;0;1;1;1;true
-Ralph;16/06/2024;Piratas;LCB;BB;0;0;0;0;true
-Leomar;16/06/2024;Piratas;LCB;K;0;0;0;0;false
-Fernando;16/06/2024;Piratas;LCB;FO;0;0;0;0;true
-Fernando;16/06/2024;Piratas;LCB;2b;1;0;0;0;true
-Fernando;16/06/2024;Piratas;LCB;GO;0;0;0;0;false
-Fernando;16/06/2024;Piratas;LCB;FO;0;0;0;0;false
-Marcio;16/06/2024;Piratas;LCB;BB;0;0;0;0;true
-Marcio;16/06/2024;Piratas;LCB;BB;0;1;0;0;false
-Marcio;16/06/2024;Piratas;LCB;BB;0;0;0;0;true
-Daniel;30/06/2024;Blumenau;LCB;HR;1;1;0;0;false
-Daniel;30/06/2024;Blumenau;LCB;IBB;0;0;1;1;true
-Daniel;30/06/2024;Blumenau;LCB;1b;0;0;0;0;false
-Daniel;30/06/2024;Blumenau;LCB;GO;0;0;0;0;false
-Daniel;30/06/2024;Blumenau;LCB;1b;0;0;0;0;false
-Yoel;30/06/2024;Blumenau;LCB;GO;0;0;0;0;false
-Yoel;30/06/2024;Blumenau;LCB;FO;0;0;0;0;true
-Yoel;30/06/2024;Blumenau;LCB;BB;0;1;1;1;false
-Yoel;30/06/2024;Blumenau;LCB;K;0;0;0;0;true
-Eudomar;30/06/2024;Blumenau;LCB;HR;2;1;0;0;false
-Eudomar;30/06/2024;Blumenau;LCB;BB;0;0;0;0;true
-Eudomar;30/06/2024;Blumenau;LCB;K;0;0;0;0;true
-Eudomar;30/06/2024;Blumenau;LCB;GO;0;0;0;0;false
-Rolando;30/06/2024;Blumenau;LCB;BB;0;0;0;0;false
-Rolando;30/06/2024;Blumenau;LCB;GO;0;0;0;0;true
-Rolando;30/06/2024;Blumenau;LCB;1b;1;0;0;0;true
-Rolando;30/06/2024;Blumenau;LCB;FO;0;0;0;0;false
-G. Lombardi;30/06/2024;Blumenau;LCB;BB;0;1;1;1;false
-G. Lombardi;30/06/2024;Blumenau;LCB;BB;0;0;0;0;true
-G. Marquez;30/06/2024;Blumenau;LCB;K;0;0;0;0;false
-G. Marquez;30/06/2024;Blumenau;LCB;K;0;0;0;0;true
-G. Marquez;30/06/2024;Blumenau;LCB;K;0;0;0;0;true
-Tomita;30/06/2024;Blumenau;LCB;K;0;0;0;0;true
-L. Marquez;30/06/2024;Blumenau;LCB;FO;0;0;0;0;false
-L. Marquez;30/06/2024;Blumenau;LCB;FO;0;0;0;0;true
-L. Marquez;30/06/2024;Blumenau;LCB;K;0;0;0;0;true
-L. Marquez;30/06/2024;Blumenau;LCB;FO;0;0;0;0;true
-Ralph;30/06/2024;Blumenau;LCB;BB;0;1;0;0;false
-Ralph;30/06/2024;Blumenau;LCB;2b;0;0;1;1;false
-Ralph;30/06/2024;Blumenau;LCB;RFC;0;0;0;0;true
-Ralph;30/06/2024;Blumenau;LCB;1b;1;0;0;0;true
-Panda;30/06/2024;Blumenau;LCB;ROE;0;0;0;0;false
-Panda;30/06/2024;Blumenau;LCB;BB;0;0;0;0;true
-Panda;30/06/2024;Blumenau;LCB;GO;0;0;0;0;true
-Antoni;30/06/2024;Blumenau;LCB;GO;0;0;0;0;false
-Marcio;30/06/2024;Blumenau;LCB;FO;0;0;0;0;true
-Marcio;30/06/2024;Blumenau;LCB;BB;0;0;0;0;false
-Marcio;30/06/2024;Blumenau;LCB;RFC;0;0;0;0;false
-Marcio;30/06/2024;Blumenau;LCB;BB;0;0;0;0;false
-Daniel;28/07/2024;Itajai;LCB;ROE;0;0;0;0;false
-Daniel;28/07/2024;Itajai;LCB;ROE;0;0;0;1;false
-Yoel;28/07/2024;Itajai;LCB;K;0;0;0;0;false
-Eudomar;28/07/2024;Itajai;LCB;K;0;0;0;0;true
-Eudomar;28/07/2024;Itajai;LCB;K;0;0;0;0;false
-Rolando;28/07/2024;Itajai;LCB;K;0;0;0;0;false
-G. Lombardi;28/07/2024;Itajai;LCB;1b;0;0;0;0;false
-W. Farias;28/07/2024;Itajai;LCB;K;0;0;0;0;false
-Ralph;28/07/2024;Itajai;LCB;K;0;0;0;0;true
-Ralph;28/07/2024;Itajai;LCB;FO;0;0;0;0;false
-Fernando;28/07/2024;Itajai;LCB;K;0;0;0;0;true
-Fernando;28/07/2024;Itajai;LCB;FO;0;0;0;0;false
-Panda;28/07/2024;Itajai;LCB;K;0;0;0;0;false
-Marcio;28/07/2024;Itajai;LCB;K;0;0;0;0;false
+Daniel;16/06/2024;Dragons;LCB-A;1b;0;1;1;1;false
+Daniel;16/06/2024;Dragons;LCB-A;K;0;0;0;0;false
+Daniel;16/06/2024;Dragons;LCB-A;HR;1;1;0;0;false
+Daniel;16/06/2024;Dragons;LCB-A;K;0;0;0;0;false
+Yoel;16/06/2024;Dragons;LCB-A;BB;0;1;1;1;false
+Yoel;16/06/2024;Dragons;LCB-A;BB;0;1;0;0;true
+Yoel;16/06/2024;Dragons;LCB-A;K;0;0;0;0;false
+Yoel;16/06/2024;Dragons;LCB-A;K;0;0;0;0;false
+Eudomar;16/06/2024;Dragons;LCB-A;K;0;0;0;0;true
+Eudomar;16/06/2024;Dragons;LCB-A;3b;0;1;0;0;false
+Rolando;16/06/2024;Dragons;LCB-A;1b;1;1;1;1;true
+Rolando;16/06/2024;Dragons;LCB-A;BB;0;1;0;0;true
+G. Lombardi;16/06/2024;Dragons;LCB-A;2b;2;1;0;0;true
+G. Lombardi;16/06/2024;Dragons;LCB-A;ROE;0;0;0;0;true
+Alex Rodriguez;16/06/2024;Dragons;LCB-A;BB;0;0;0;0;true
+Alex Rodriguez;16/06/2024;Dragons;LCB-A;K;0;0;0;0;true
+W. Farias;16/06/2024;Dragons;LCB-A;BB;0;0;0;0;true
+W. Farias;16/06/2024;Dragons;LCB-A;K;0;0;0;0;true
+G. Marquez;16/06/2024;Dragons;LCB-A;1b;1;0;0;0;true
+G. Marquez;16/06/2024;Dragons;LCB-A;BB;0;0;1;2;false
+Tomita;16/06/2024;Dragons;LCB-A;K;0;0;0;0;true
+Tomita;16/06/2024;Dragons;LCB-A;BB;0;1;0;0;false
+A. Flores;16/06/2024;Dragons;LCB-A;BB;0;1;0;0;true
+L. Marquez;16/06/2024;Dragons;LCB-A;HR;3;1;0;0;true
+L. Marquez;16/06/2024;Dragons;LCB-A;K;0;0;0;0;false
+Ralph;16/06/2024;Dragons;LCB-A;GO;0;0;0;0;false
+Ralph;16/06/2024;Dragons;LCB-A;K;0;0;0;0;false
+Leomar;16/06/2024;Dragons;LCB-A;GO;0;0;0;0;false
+Leomar;16/06/2024;Dragons;LCB-A;K;0;0;0;0;false
+Fernando;16/06/2024;Dragons;LCB-A;HR;1;1;0;0;false
+Fernando;16/06/2024;Dragons;LCB-A;BB;0;0;0;0;false
+Panda;16/06/2024;Dragons;LCB-A;BB;0;1;0;0;false
+P. Zaniboni;16/06/2024;Dragons;LCB-A;BB;0;0;0;0;false
+Daniel;16/06/2024;Piratas;LCB-A;ROE;0;0;0;0;false
+Daniel;16/06/2024;Piratas;LCB-A;RFC;1;1;2;2;true
+Daniel;16/06/2024;Piratas;LCB-A;HR;1;1;0;0;false
+Daniel;16/06/2024;Piratas;LCB-A;RFC;0;0;0;0;false
+Yoel;16/06/2024;Piratas;LCB-A;BB;0;1;1;1;false
+Yoel;16/06/2024;Piratas;LCB-A;HBP;0;1;0;0;true
+Yoel;16/06/2024;Piratas;LCB-A;HBP;0;1;0;0;true
+Eudomar;16/06/2024;Piratas;LCB-A;1b;1;0;0;0;true
+Eudomar;16/06/2024;Piratas;LCB-A;K;0;0;0;0;true
+Rolando;16/06/2024;Piratas;LCB-A;K;0;0;0;0;true
+Rolando;16/06/2024;Piratas;LCB-A;GO;0;0;0;0;true
+G. Lombardi;16/06/2024;Piratas;LCB-A;1b;0;1;0;0;false
+W. Farias;16/06/2024;Piratas;LCB-A;BB;0;1;0;0;true
+G. Marquez;16/06/2024;Piratas;LCB-A;1b;1;1;1;1;true
+G. Marquez;16/06/2024;Piratas;LCB-A;HR;3;1;0;0;true
+G. Marquez;16/06/2024;Piratas;LCB-A;BB;0;1;0;0;true
+L. Marquez;16/06/2024;Piratas;LCB-A;GO;0;0;0;0;true
+L. Marquez;16/06/2024;Piratas;LCB-A;BB;0;1;1;1;false
+L. Marquez;16/06/2024;Piratas;LCB-A;1b;1;1;0;0;true
+Ralph;16/06/2024;Piratas;LCB-A;RFC;0;1;1;1;true
+Ralph;16/06/2024;Piratas;LCB-A;BB;0;0;0;0;true
+Leomar;16/06/2024;Piratas;LCB-A;K;0;0;0;0;false
+Fernando;16/06/2024;Piratas;LCB-A;FO;0;0;0;0;true
+Fernando;16/06/2024;Piratas;LCB-A;2b;1;0;0;0;true
+Fernando;16/06/2024;Piratas;LCB-A;GO;0;0;0;0;false
+Fernando;16/06/2024;Piratas;LCB-A;FO;0;0;0;0;false
+Marcio;16/06/2024;Piratas;LCB-A;BB;0;0;0;0;true
+Marcio;16/06/2024;Piratas;LCB-A;BB;0;1;0;0;false
+Marcio;16/06/2024;Piratas;LCB-A;BB;0;0;0;0;true
+Daniel;30/06/2024;Blumenau;LCB-A;HR;1;1;0;0;false
+Daniel;30/06/2024;Blumenau;LCB-A;IBB;0;0;1;1;true
+Daniel;30/06/2024;Blumenau;LCB-A;1b;0;0;0;0;false
+Daniel;30/06/2024;Blumenau;LCB-A;GO;0;0;0;0;false
+Daniel;30/06/2024;Blumenau;LCB-A;1b;0;0;0;0;false
+Yoel;30/06/2024;Blumenau;LCB-A;GO;0;0;0;0;false
+Yoel;30/06/2024;Blumenau;LCB-A;FO;0;0;0;0;true
+Yoel;30/06/2024;Blumenau;LCB-A;BB;0;1;1;1;false
+Yoel;30/06/2024;Blumenau;LCB-A;K;0;0;0;0;true
+Eudomar;30/06/2024;Blumenau;LCB-A;HR;2;1;0;0;false
+Eudomar;30/06/2024;Blumenau;LCB-A;BB;0;0;0;0;true
+Eudomar;30/06/2024;Blumenau;LCB-A;K;0;0;0;0;true
+Eudomar;30/06/2024;Blumenau;LCB-A;GO;0;0;0;0;false
+Rolando;30/06/2024;Blumenau;LCB-A;BB;0;0;0;0;false
+Rolando;30/06/2024;Blumenau;LCB-A;GO;0;0;0;0;true
+Rolando;30/06/2024;Blumenau;LCB-A;1b;1;0;0;0;true
+Rolando;30/06/2024;Blumenau;LCB-A;FO;0;0;0;0;false
+G. Lombardi;30/06/2024;Blumenau;LCB-A;BB;0;1;1;1;false
+G. Lombardi;30/06/2024;Blumenau;LCB-A;BB;0;0;0;0;true
+G. Marquez;30/06/2024;Blumenau;LCB-A;K;0;0;0;0;false
+G. Marquez;30/06/2024;Blumenau;LCB-A;K;0;0;0;0;true
+G. Marquez;30/06/2024;Blumenau;LCB-A;K;0;0;0;0;true
+Tomita;30/06/2024;Blumenau;LCB-A;K;0;0;0;0;true
+L. Marquez;30/06/2024;Blumenau;LCB-A;FO;0;0;0;0;false
+L. Marquez;30/06/2024;Blumenau;LCB-A;FO;0;0;0;0;true
+L. Marquez;30/06/2024;Blumenau;LCB-A;K;0;0;0;0;true
+L. Marquez;30/06/2024;Blumenau;LCB-A;FO;0;0;0;0;true
+Ralph;30/06/2024;Blumenau;LCB-A;BB;0;1;0;0;false
+Ralph;30/06/2024;Blumenau;LCB-A;2b;0;0;1;1;false
+Ralph;30/06/2024;Blumenau;LCB-A;RFC;0;0;0;0;true
+Ralph;30/06/2024;Blumenau;LCB-A;1b;1;0;0;0;true
+Panda;30/06/2024;Blumenau;LCB-A;ROE;0;0;0;0;false
+Panda;30/06/2024;Blumenau;LCB-A;BB;0;0;0;0;true
+Panda;30/06/2024;Blumenau;LCB-A;GO;0;0;0;0;true
+Antoni;30/06/2024;Blumenau;LCB-A;GO;0;0;0;0;false
+Marcio;30/06/2024;Blumenau;LCB-A;FO;0;0;0;0;true
+Marcio;30/06/2024;Blumenau;LCB-A;BB;0;0;0;0;false
+Marcio;30/06/2024;Blumenau;LCB-A;RFC;0;0;0;0;false
+Marcio;30/06/2024;Blumenau;LCB-A;BB;0;0;0;0;false
+Daniel;28/07/2024;Itajai;LCB-A;ROE;0;0;0;0;false
+Daniel;28/07/2024;Itajai;LCB-A;ROE;0;0;0;1;false
+Yoel;28/07/2024;Itajai;LCB-A;K;0;0;0;0;false
+Eudomar;28/07/2024;Itajai;LCB-A;K;0;0;0;0;true
+Eudomar;28/07/2024;Itajai;LCB-A;K;0;0;0;0;false
+Rolando;28/07/2024;Itajai;LCB-A;K;0;0;0;0;false
+G. Lombardi;28/07/2024;Itajai;LCB-A;1b;0;0;0;0;false
+W. Farias;28/07/2024;Itajai;LCB-A;K;0;0;0;0;false
+Ralph;28/07/2024;Itajai;LCB-A;K;0;0;0;0;true
+Ralph;28/07/2024;Itajai;LCB-A;FO;0;0;0;0;false
+Fernando;28/07/2024;Itajai;LCB-A;K;0;0;0;0;true
+Fernando;28/07/2024;Itajai;LCB-A;FO;0;0;0;0;false
+Panda;28/07/2024;Itajai;LCB-A;K;0;0;0;0;false
+Marcio;28/07/2024;Itajai;LCB-A;K;0;0;0;0;false
 Daniel;18/05/2025;Dragons;Exhibition;3b;0;1;0;0;false
 Daniel;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;true
 Daniel;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;false
@@ -148,52 +148,52 @@ G. Marquez;18/05/2025;Dragons;Exhibition;GO;0;0;0;0;false
 Alex Rodriguez;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;false
 Alex Rodriguez;18/05/2025;Dragons;Exhibition;K;0;0;0;0;true
 Rolando;18/05/2025;Dragons;Exhibition;FO;0;0;0;0;false
-Daniel;06/07/2025;Jaragua;LCB;BB;0;1;0;0;false
-Daniel;06/07/2025;Jaragua;LCB;1b;0;1;0;0;false
-Daniel;06/07/2025;Jaragua;LCB;1b;0;1;0;0;false
-Daniel;06/07/2025;Jaragua;LCB;1b;2;0;0;0;true
-G. Lombardi;06/07/2025;Jaragua;LCB;2b;0;1;0;0;false
-G. Lombardi;06/07/2025;Jaragua;LCB;2b;1;1;0;0;true
-G. Lombardi;06/07/2025;Jaragua;LCB;GO;0;0;0;0;true
-G. Lombardi;06/07/2025;Jaragua;LCB;K;0;0;0;0;true
-Alberto;06/07/2025;Jaragua;LCB;ROE;1;1;1;1;true
-Alberto;06/07/2025;Jaragua;LCB;2b;2;1;0;0;true
-Alberto;06/07/2025;Jaragua;LCB;2b;1;0;0;0;true
-Ralph;06/07/2025;Jaragua;LCB;ROE;0;1;0;0;true
-Ralph;06/07/2025;Jaragua;LCB;K;0;0;0;0;true
-Ralph;06/07/2025;Jaragua;LCB;FO;0;0;0;0;true
-Eudomar;06/07/2025;Jaragua;LCB;K;0;0;0;0;true
-Eudomar;06/07/2025;Jaragua;LCB;1b;1;0;0;0;true
-Eudomar;06/07/2025;Jaragua;LCB;BB;0;1;0;0;false
-Panda;06/07/2025;Jaragua;LCB;1b;1;0;0;0;true
-Panda;06/07/2025;Jaragua;LCB;HBP;0;0;0;0;false
-Panda;06/07/2025;Jaragua;LCB;FO;0;0;0;0;false
-Douglas;06/07/2025;Jaragua;LCB;1b;1;0;0;0;true
-Douglas;06/07/2025;Jaragua;LCB;K;0;0;0;0;true
-Douglas;06/07/2025;Jaragua;LCB;1b;0;1;0;0;false
-Juan;06/07/2025;Jaragua;LCB;GO;0;0;0;0;true
-Juan;06/07/2025;Jaragua;LCB;K;0;0;0;0;true
-Juan;06/07/2025;Jaragua;LCB;BB;0;0;0;0;true
-Tomita;06/07/2025;Jaragua;LCB;BB;1;1;0;0;false
-Tomita;06/07/2025;Jaragua;LCB;K;0;0;0;0;false
-Tomita;06/07/2025;Jaragua;LCB;K;0;0;0;0;true
-Daniel;06/07/2025;Vikings;LCB;BB;0;1;1;1;false
-Daniel;06/07/2025;Vikings;LCB;HBP;0;1;0;0;false
-G. Lombardi;06/07/2025;Vikings;LCB;ROE;0;0;0;0;true
-G. Lombardi;06/07/2025;Vikings;LCB;1b;1;1;0;0;true
-A. Romero;06/07/2025;Vikings;LCB;BB;0;0;0;0;true
-Alberto;06/07/2025;Vikings;LCB;GO;1;0;0;0;true
-Alberto;06/07/2025;Vikings;LCB;ROE;1;1;0;0;true
-Ralph;06/07/2025;Vikings;LCB;FO;0;0;0;0;true
-Ralph;06/07/2025;Vikings;LCB;2b;1;1;1;1;true
-Eudomar;06/07/2025;Vikings;LCB;GO;0;0;0;0;false
-Eudomar;06/07/2025;Vikings;LCB;1b;1;0;0;0;true
-Panda;06/07/2025;Vikings;LCB;BB;0;0;0;0;false
-Panda;06/07/2025;Vikings;LCB;GO;0;0;0;0;false
-W. Kakuta;06/07/2025;Vikings;LCB;K;0;0;0;0;false
-Tomita;06/07/2025;Vikings;LCB;FO;0;0;0;0;false
-Juan;06/07/2025;Vikings;LCB;FO;0;0;0;0;true
-Douglas;06/07/2025;Vikings;LCB;GO;0;0;0;0;true
+Daniel;06/07/2025;Jaragua;LCB-A;BB;0;1;0;0;false
+Daniel;06/07/2025;Jaragua;LCB-A;1b;0;1;0;0;false
+Daniel;06/07/2025;Jaragua;LCB-A;1b;0;1;0;0;false
+Daniel;06/07/2025;Jaragua;LCB-A;1b;2;0;0;0;true
+G. Lombardi;06/07/2025;Jaragua;LCB-A;2b;0;1;0;0;false
+G. Lombardi;06/07/2025;Jaragua;LCB-A;2b;1;1;0;0;true
+G. Lombardi;06/07/2025;Jaragua;LCB-A;GO;0;0;0;0;true
+G. Lombardi;06/07/2025;Jaragua;LCB-A;K;0;0;0;0;true
+Alberto;06/07/2025;Jaragua;LCB-A;ROE;1;1;1;1;true
+Alberto;06/07/2025;Jaragua;LCB-A;2b;2;1;0;0;true
+Alberto;06/07/2025;Jaragua;LCB-A;2b;1;0;0;0;true
+Ralph;06/07/2025;Jaragua;LCB-A;ROE;0;1;0;0;true
+Ralph;06/07/2025;Jaragua;LCB-A;K;0;0;0;0;true
+Ralph;06/07/2025;Jaragua;LCB-A;FO;0;0;0;0;true
+Eudomar;06/07/2025;Jaragua;LCB-A;K;0;0;0;0;true
+Eudomar;06/07/2025;Jaragua;LCB-A;1b;1;0;0;0;true
+Eudomar;06/07/2025;Jaragua;LCB-A;BB;0;1;0;0;false
+Panda;06/07/2025;Jaragua;LCB-A;1b;1;0;0;0;true
+Panda;06/07/2025;Jaragua;LCB-A;HBP;0;0;0;0;false
+Panda;06/07/2025;Jaragua;LCB-A;FO;0;0;0;0;false
+Douglas;06/07/2025;Jaragua;LCB-A;1b;1;0;0;0;true
+Douglas;06/07/2025;Jaragua;LCB-A;K;0;0;0;0;true
+Douglas;06/07/2025;Jaragua;LCB-A;1b;0;1;0;0;false
+Juan;06/07/2025;Jaragua;LCB-A;GO;0;0;0;0;true
+Juan;06/07/2025;Jaragua;LCB-A;K;0;0;0;0;true
+Juan;06/07/2025;Jaragua;LCB-A;BB;0;0;0;0;true
+Tomita;06/07/2025;Jaragua;LCB-A;BB;1;1;0;0;false
+Tomita;06/07/2025;Jaragua;LCB-A;K;0;0;0;0;false
+Tomita;06/07/2025;Jaragua;LCB-A;K;0;0;0;0;true
+Daniel;06/07/2025;Vikings;LCB-A;BB;0;1;1;1;false
+Daniel;06/07/2025;Vikings;LCB-A;HBP;0;1;0;0;false
+G. Lombardi;06/07/2025;Vikings;LCB-A;ROE;0;0;0;0;true
+G. Lombardi;06/07/2025;Vikings;LCB-A;1b;1;1;0;0;true
+A. Romero;06/07/2025;Vikings;LCB-A;BB;0;0;0;0;true
+Alberto;06/07/2025;Vikings;LCB-A;GO;1;0;0;0;true
+Alberto;06/07/2025;Vikings;LCB-A;ROE;1;1;0;0;true
+Ralph;06/07/2025;Vikings;LCB-A;FO;0;0;0;0;true
+Ralph;06/07/2025;Vikings;LCB-A;2b;1;1;1;1;true
+Eudomar;06/07/2025;Vikings;LCB-A;GO;0;0;0;0;false
+Eudomar;06/07/2025;Vikings;LCB-A;1b;1;0;0;0;true
+Panda;06/07/2025;Vikings;LCB-A;BB;0;0;0;0;false
+Panda;06/07/2025;Vikings;LCB-A;GO;0;0;0;0;false
+W. Kakuta;06/07/2025;Vikings;LCB-A;K;0;0;0;0;false
+Tomita;06/07/2025;Vikings;LCB-A;FO;0;0;0;0;false
+Juan;06/07/2025;Vikings;LCB-A;FO;0;0;0;0;true
+Douglas;06/07/2025;Vikings;LCB-A;GO;0;0;0;0;true
 Daniel;30/08/2025;The Brows;Brasileiro de Softball;K;0;0;0;0;false
 G. Lombardi;30/08/2025;The Brows;Brasileiro de Softball;1b;0;1;0;0;false
 Ralph;30/08/2025;The Brows;Brasileiro de Softball;GO;0;0;0;0;false
@@ -289,5 +289,5 @@ Juan;30/08/2025;Legends;Brasileiro de Softball;FO;0;0;0;0;true
 Honorio;30/08/2025;Legends;Brasileiro de Softball;FO;0;0;0;0;false
 Alan;30/08/2025;Legends;Brasileiro de Softball;GO;0;0;0;0;false
 Rafinha;30/08/2025;Legends;Brasileiro de Softball;FO;0;0;0;0;false
-Douglas;14/09/2025;Dragons;LCB;HR;1;1;0;0;false
-G. Lombardi;14/09/2025;Dragons;LCB;2b;0;1;1;1;false
+Douglas;14/09/2025;Dragons;LCB-B;HR;1;1;0;0;false
+G. Lombardi;14/09/2025;Dragons;LCB-B;2b;0;1;1;1;false
