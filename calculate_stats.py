@@ -15,6 +15,7 @@ got_on_base = data[data["Appearance"].isin(on_base)].groupby("Name").size()
 
 strikeouts = data[data["Appearance"]=="K"].groupby("Name").size()
 stolen_bases = data.groupby("Name")["SB"].sum()
+stolen_base_attempts = data.groupby("Name")["SBA"].sum()
 
 average = (hits/atbats).round(3)
 on_base_percentage = (got_on_base/plate_appearances).round(3)
