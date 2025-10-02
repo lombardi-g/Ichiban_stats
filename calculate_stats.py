@@ -29,3 +29,6 @@ total_bases = singles*1 + doubles*2 + triples*3 + homeruns*4
 slugging = (total_bases / atbats).round(3)
 
 on_base_plus_slugging = on_base_percentage + slugging
+
+# RISP stats
+data_RISPonly = data[data["RISP"] == True]
