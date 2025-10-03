@@ -32,3 +32,4 @@ on_base_plus_slugging = on_base_percentage + slugging
 
 # RISP stats
 data_RISPonly = data[data["RISP"] == True]
+RISP_strikeouts = data_RISPonly[data_RISPonly["Appearance"]=="K"].groupby("Name").size()
