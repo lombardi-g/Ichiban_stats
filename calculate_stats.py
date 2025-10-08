@@ -35,3 +35,4 @@ data_RISPonly = data[data["RISP"] == True]
 RISP_strikeouts = data_RISPonly[data_RISPonly["Appearance"]=="K"].groupby("Name").size()
 RISP_atbats = data_RISPonly[data_RISPonly["Appearance"].isin(count_towards_atbats)].groupby("Name").size()
 RISP_hits = data_RISPonly[data_RISPonly["Appearance"].isin(count_as_hits)].groupby("Name").size()
+RISP_gotonbase = data_RISPonly[data_RISPonly["Appearance"].isin(on_base)].groupby("Name").size()
