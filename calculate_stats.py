@@ -38,3 +38,5 @@ RISP_hits = data_RISPonly[data_RISPonly["Appearance"].isin(count_as_hits)].group
 RISP_gotonbase = data_RISPonly[data_RISPonly["Appearance"].isin(on_base)].groupby("Name").size()
 RISP_stolenbases = data_RISPonly.groupby("Name")["SB"].sum()
 RISP_stolenbaseattemps = data_RISPonly.groupby("Name")["SBA"].sum()
+
+RISP_singles = data_RISPonly[data_RISPonly["Appearance"] == "1b"].groupby("Name").size().reindex(atbats.index, fill_value=0)
