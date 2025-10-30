@@ -41,3 +41,5 @@ RISP_stolenbaseattemps = data_RISPonly.groupby("Name")["SBA"].sum()
 
 RISP_singles = data_RISPonly[data_RISPonly["Appearance"] == "1b"].groupby("Name").size().reindex(atbats.index, fill_value=0)
 RISP_doubles = data_RISPonly[data_RISPonly["Appearance"] == "2b"].groupby("Name").size().reindex(atbats.index, fill_value=0)
+RISP_triples = data_RISPonly[data_RISPonly["Appearance"] == "3b"].groupby("Name").size().reindex(atbats.index, fill_value=0)
+RISP_homeruns = data_RISPonly[data_RISPonly["Appearance"] == "HR"].groupby("Name").size().reindex(atbats.index, fill_value=0)
