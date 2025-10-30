@@ -1,4 +1,5 @@
 from pyspark.sql import SparkSession, functions as F
+from pyspark.sql.functions import round
 
 spark = (
     SparkSession.builder
@@ -7,7 +8,7 @@ spark = (
     .getOrCreate()
 )
 
-spark.sparkContext.setLogLevel("ERROR")
+# spark.sparkContext.setLogLevel("ERROR")
 
 data = spark.read.csv("appearances.csv", header=True, sep=';')
 
@@ -24,6 +25,6 @@ stats = (
             F.sum(F.col("RBI").cast("int")).alias("RBI"),
             F.sum(F.col("Run").cast("int")).alias("R"),
         )
-        .withColumn("AVG", (F.col("H") / F.col("AB")))
+        .withColumn("AVG", round(F.col("H") / F.col("AB"),3))
 )
 stats.show()
