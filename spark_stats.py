@@ -25,6 +25,7 @@ stats = (
             F.sum(F.col("RBI").cast("int")).alias("RBI"),
             F.sum(F.col("Run").cast("int")).alias("R"),
         )
-        .withColumn("AVG", round(F.col("H") / F.col("AB"),3))
+        .withColumn("AVG", round(F.try_divide(F.col("H"),F.col("AB")),3))
 )
+stats = stats.sort("Name")
 stats.show()
