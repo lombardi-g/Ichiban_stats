@@ -1,14 +1,7 @@
 from pyspark.sql import SparkSession, functions as F
 from pyspark.sql.functions import round
 
-spark = (
-    SparkSession.builder
-    .appName("BaseballStats")
-    .config("spark.driver.extraJavaOptions", "--enable-native-access=ALL-UNNAMED")
-    .getOrCreate()
-)
-
-# spark.sparkContext.setLogLevel("ERROR")
+spark = SparkSession.builder.appName("BaseballStats").getOrCreate()
 
 data = spark.read.csv("appearances.csv", header=True, sep=';')
 
