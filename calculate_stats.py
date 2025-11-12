@@ -47,3 +47,5 @@ RISP_homeruns = data_RISPonly[data_RISPonly["Appearance"] == "HR"].groupby("Name
 RISP_average = (RISP_hits/RISP_atbats).round(3)
 RISP_plate_appearances = data_RISPonly.groupby("Name").size()
 RISP_obp = (RISP_gotonbase / RISP_plate_appearances).round(3)
+
+RISP_totalbases = RISP_singles*1 + RISP_doubles*2 + RISP_triples*3 + RISP_homeruns*4
