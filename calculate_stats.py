@@ -50,3 +50,5 @@ RISP_obp = (RISP_gotonbase / RISP_plate_appearances).round(3)
 
 RISP_totalbases = RISP_singles*1 + RISP_doubles*2 + RISP_triples*3 + RISP_homeruns*4
 RISP_slugging = (RISP_totalbases / RISP_atbats).round(3)
+
+RISP_ops = RISP_obp + RISP_slugging
