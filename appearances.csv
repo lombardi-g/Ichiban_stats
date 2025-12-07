@@ -516,7 +516,7 @@ Ralph;07/12/2025;Jaragua;LCB-A;FO;0;0;0;0;false
 Panda;07/12/2025;Jaragua;LCB-A;HR;1;1;0;0;false
 Eudomar;07/12/2025;Jaragua;LCB-A;K;0;0;0;0;false
 Douglas;07/12/2025;Jaragua;LCB-A;2b;0;1;1;1;false
-Tomita;07/12/2025;Jaragua;LCB-A;BB;0;0;0;0;false
+Tomita;07/12/2025;Jaragua;LCB-A;BB;0;0;0;0;true
 Daniel;07/12/2025;Jaragua;LCB-A;K;0;0;0;0;false
 G. Lombardi;07/12/2025;Jaragua;LCB-A;1b;0;0;0;0;false
 Alberto;07/12/2025;Jaragua;LCB-A;GO;0;0;0;0;false
@@ -525,3 +525,37 @@ Ralph;07/12/2025;Jaragua;LCB-A;GO;0;0;0;0;false
 Panda;07/12/2025;Jaragua;LCB-A;HR;1;1;0;0;false
 Eudomar;07/12/2025;Jaragua;LCB-A;K;0;0;0;0;false
 Douglas;07/12/2025;Jaragua;LCB-A;GO;0;0;0;0;false
+A. Flores;07/12/2025;Dragons;LCB-B;1b;0;1;0;0;false
+L. Marquez;07/12/2025;Dragons;LCB-B;2b;1;1;2;2;true
+G. Lombardi;07/12/2025;Dragons;LCB-B;BB;0;0;1;1;true
+Jesus;07/12/2025;Dragons;LCB-B;K;0;0;0;0;true
+P. Zaniboni;07/12/2025;Dragons;LCB-B;HBP;0;1;1;1;true
+Carlos;07/12/2025;Dragons;LCB-B;BB;0;1;1;1;true
+P. Mario;07/12/2025;Dragons;LCB-B;BB;0;1;0;0;true
+Cabeza;07/12/2025;Dragons;LCB-B;ROE;0;1;0;0;true
+R. Ramos;07/12/2025;Dragons;LCB-B;ROE;0;0;0;0;true
+A. Flores;07/12/2025;Dragons;LCB-B;K;0;0;0;0;true
+L. Marquez;07/12/2025;Dragons;LCB-B;BB;0;1;1;1;false
+G. Lombardi;07/12/2025;Dragons;LCB-B;2b;0;1;0;0;true
+Jesus;07/12/2025;Dragons;LCB-B;K;0;0;0;0;true
+P. Zaniboni;07/12/2025;Dragons;LCB-B;SacF;1;0;0;0;true
+Carlos;07/12/2025;Dragons;LCB-B;FO;0;0;0;0;false
+P. Mario;07/12/2025;Dragons;LCB-B;BB;0;1;1;1;false
+Cabeza;07/12/2025;Dragons;LCB-B;BB;0;1;1;1;true
+R. Ramos;07/12/2025;Dragons;LCB-B;BB;0;1;0;0;true
+A. Flores;07/12/2025;Dragons;LCB-B;1b;2;1;0;0;true
+L. Marquez;07/12/2025;Dragons;LCB-B;FO;0;0;0;0;true
+G. Lombardi;07/12/2025;Dragons;LCB-B;3b;2;1;0;0;true
+Jesus;07/12/2025;Dragons;LCB-B;BB;0;1;0;0;true
+P. Zaniboni;07/12/2025;Dragons;LCB-B;BB;0;1;0;0;true
+Carlos;07/12/2025;Dragons;LCB-B;1b;1;1;0;0;true
+P. Mario;07/12/2025;Dragons;LCB-B;1b;2;1;0;0;true
+Cabeza;07/12/2025;Dragons;LCB-B;GO;0;0;0;0;true
+R. Ramos;07/12/2025;Dragons;LCB-B;BB;0;0;0;0;true
+A. Flores;07/12/2025;Dragons;LCB-B;1b;0;0;0;0;false
+L. Marquez;07/12/2025;Dragons;LCB-B;GO;0;0;0;0;true
+G. Lombardi;07/12/2025;Dragons;LCB-B;FO;0;0;0;0;false
+Antonio;07/12/2025;Dragons;LCB-B;1b;0;1;1;1;false
+P. Zaniboni;07/12/2025;Dragons;LCB-B;K;0;0;0;0;true
+Carlos;07/12/2025;Dragons;LCB-B;1b;1;0;0;0;true
+P. Mario;07/12/2025;Dragons;LCB-B;GO;0;0;0;0;false
