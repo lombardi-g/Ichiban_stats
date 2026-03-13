@@ -20,6 +20,7 @@ $$ \text{At Bats}= AB = PA - BB - HBP - SacF - SacB$$
 $$Average = Avg = \frac{Hits}{AB}$$
 $$Slugging = SLG = \frac{Singles + (2 \times Doubles) + (3 \times Triples) + (4 \times Home Runs)}{AB}$$
 $$\text{On Base Percentage}= OBP = \frac{H + BB + HBP}{AB + BB + HBP + SF}$$
+$$\text{On Base Plus Slugging} = OPS = \text{OBP} + \text{SLG}$$
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
  <!-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
